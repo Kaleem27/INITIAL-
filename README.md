@@ -1,6 +1,13 @@
-# INITIAL-
-NEW TO PROJECT 
-<HTML>
-  <HEADING> human life </HEADING>
-  <body> human life a mestory and the game that have start and the end point </body>
-</HTML>
+<!docttype html>
+<html>
+  <head> first prject on github</head>
+  <body>
+<h2> my introduction </h2> 
+    <br>
+    
+    <p> hello world! <br>
+    my name is kaleemullah. i have done graduation in social science from sindh unversity. 
+    <br>
+    as for now i am involved in my family business and also working on web development course.</p>
+  </body>
+</html>
